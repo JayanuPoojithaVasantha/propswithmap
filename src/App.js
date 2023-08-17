@@ -26,10 +26,10 @@ const tops = [
   },
   {
     Imagepath:
-      "https://assets.ajio.com/medias/sys_master/root/20230629/EzdW/649d0423eebac147fc38af40/-473Wx593H-466173772-white-MODEL9.jpg ",
-    Brand: " ASHLEE",
-    Model: "Embroidered Round-Neck Top",
-    Price: "Rs.490",
+      "https://assets.ajio.com/medias/sys_master/root/20230602/ZUsA/6479582242f9e729d711451a/-473Wx593H-462133947-yellow-MODEL.jpg ",
+    Brand: " WINERED",
+    Model: " Embroidered V-neck Top",
+    Price: "Rs.727",
   },
   {
     Imagepath:
@@ -40,10 +40,10 @@ const tops = [
   },
   {
     Imagepath:
-      "https://assets.ajio.com/medias/sys_master/root/20230707/aU9c/64a73ee9eebac147fc5ae4d2/-473Wx593H-466338841-black-MODEL5.jpg ",
-    Brand: "  CHOKHI DHANI",
-    Model: " Embroidered Top with Bracelet Sleeves",
-    Price: "Rs.375",
+      "https://assets.ajio.com/medias/sys_master/root/20230629/tYbQ/649cf2f3a9b42d15c92064b3/-473Wx593H-466111265-white-MODEL.jpg",
+    Brand: "STYLE QUOTIENT  ",
+    Model: " Round-Neck Top with Petal-Sleeves",
+    Price: "Rs.549",
   },
   {
     Imagepath:
@@ -82,10 +82,59 @@ const tops = [
   },
   {
     Imagepath:
-      "https://assets.ajio.com/medias/sys_master/root/20230624/cBHE/64961be3a9b42d15c9d1dbfb/-473Wx593H-465155418-maroon-MODEL.jpg ",
-    Brand: " KIBO",
-    Model: " Fitted Crop Wrap Top",
-    Price: "Rs.525",
+      "https://assets.ajio.com/medias/sys_master/root/20230621/Hca5/6492abb2d55b7d0c63946c17/-473Wx593H-463984451-yellow-MODEL.jpg ",
+    Brand: " NEUDIS",
+    Model: " Slim Fit Top with Boat-Neck",
+    Price: "Rs.448",
+  },
+  {
+    Imagepath:
+      "https://assets.ajio.com/medias/sys_master/root/20230707/n2Ty/64a83d3beebac147fc5da82c/-473Wx593H-466342380-black-MODEL.jpg ",
+    Brand: " SHEETAL ASSOCIATES    ",
+    Model: " Floral Top with Puff Sleeves",
+    Price: "Rs.380",
+  },
+  {
+    Imagepath:
+      "https://assets.ajio.com/medias/sys_master/root/20230525/qauA/646f27ea42f9e729d7c4aec8/-473Wx593H-464989769-red-MODEL.jpg",
+    Brand: "WEDANI ",
+    Model: " Floral Print Top with Puff Sleeves",
+    Price: "Rs.349",
+  },
+  {
+    Imagepath:
+      "https://assets.ajio.com/medias/sys_master/root/20230522/PeOt/646b6fab42f9e729d7a092e8/-473Wx593H-466173767-navy-MODEL.jpg ",
+    Brand: " ASHLEE",
+    Model: " Floral Print Round-Neck Top",
+    Price: "Rs.480",
+  },
+  {
+    Imagepath:
+      " https://assets.ajio.com/medias/sys_master/root/20230628/huf2/649bc19deebac147fc1f1240/-473Wx593H-465946005-black-MODEL.jpg",
+    Brand: " GUFRINA",
+    Model: " Floral Tunic with Bishop Sleeves",
+    Price: "Rs.580",
+  },
+  {
+    Imagepath:
+      " https://assets.ajio.com/medias/sys_master/root/20230526/hrAx/646fe55042f9e729d7d745e4/-473Wx593H-465325266-beige-MODEL.jpg",
+    Brand: " WEDANI",
+    Model: " Camouflage Print Round-Neck Top",
+    Price: "Rs.249",
+  },
+  {
+    Imagepath:
+      " https://assets.ajio.com/medias/sys_master/root/20230617/bffr/648d09e0d55b7d0c63713135/-473Wx593H-466283448-black-MODEL.jpg",
+    Brand: " ANUTTARA FASHIONS    ",
+    Model: " Embroidered Shirt with Mandarin Collar",
+    Price: "Rs.495",
+  },
+  {
+    Imagepath:
+      " https://assets.ajio.com/medias/sys_master/root/20230602/e1Jx/64799cc3d55b7d0c6343e84d/-473Wx593H-462765645-peach-MODEL.jpg",
+    Brand: " DIVENA",
+    Model: " Floral Print Mandarin Collar Top",
+    Price: "Rs.768",
   },
 ];
 
